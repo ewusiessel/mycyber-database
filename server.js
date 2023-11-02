@@ -14,5 +14,5 @@ app.get("/api/contacts", (req, res) => { //7. add this
 
 //4. call back for listening on the port created
 app.listen(port, () => {
-    console.log(`Server running on port ${port}`)
+    console.log(`Server running on port ${port} 🚀`)
 });
